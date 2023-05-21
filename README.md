@@ -1,16 +1,18 @@
-### Hi there 👋
+<h3 align="center">
+    📊 Stats
+</h3>
 
-<!--
-**bulondra/bulondra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<figure><embed src="https://wakatime.com/share/@30c3d6e3-02a7-46a6-b89a-b48416bb9490/a3b11818-8355-4387-a374-1b485f3d0625.svg"></embed></figure>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=bulondra&show_icons=true&hide_border=false&theme=onedark">
+   <br/>
+   <br/>
+   <br/>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bulondra&theme=onedark&hide_border=false">
+   <br/>
+   <br/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bulondra&layout=compact&theme=onedark&card_width=445px">
+</div>

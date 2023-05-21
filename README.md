@@ -14,4 +14,7 @@
    <br/>
    <br/>
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bulondra&theme=aura&hide_border=false">
+   <br/>
+   <br/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bulondra&layout=compact&theme=aura&card_width=445px">
 </div>

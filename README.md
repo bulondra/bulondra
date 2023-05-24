@@ -41,4 +41,7 @@
     <br/>
     <br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bulondra&langs_count=5&hide=Makefile&theme=aura&card_width=445px">
+    <br />
+    <br />
+    <img src="https://raw.githubusercontent.com/bulondra/bulondra/main/icons/spotify.svg">
 </div>

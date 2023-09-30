@@ -1,5 +1,7 @@
 # Hey, I'm Ondřej 👋
 
+I'm a software developer, primarily in frontend development, where I specialize in Angular and TypeScript. I've got solid experience with Java and C# as well, spanning several years. Lately, I've been diving into React Native to broaden my horizons in mobile app development.
+
 <div align="center">
     <a href=#><img src="https://raw.githubusercontent.com/bulondra/bulondra/master/contributions.svg#gh-dark-mode-only"></a>
     <br />
